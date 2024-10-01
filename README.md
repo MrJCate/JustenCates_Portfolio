@@ -10,4 +10,4 @@ This is a project I did to analysis big game animal populations in the US.
 
 This is a project I did to analysis the U.S stock market. 
   - Data was taken from MarketWatch.
-  - Indexes included: Dow Jones Industrial Average, S&P500, and NASDAQ  
+  - Indexes included: Dow, S&P500, and NASDAQ  
