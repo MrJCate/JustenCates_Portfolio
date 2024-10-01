@@ -2,7 +2,7 @@
 
 # [Project 1: Big Game U.S. Population](https://github.com/MrJCate/....)
 
-This is a project I did to analysis big game animal populations in the US.
+This is a project I did to analysis big game populations in the US.
   - Data was taken from USDA (U.S Department of Agriculture).
   - Species included: Whitetail Deer, Elk, Moose and Bear 
 
