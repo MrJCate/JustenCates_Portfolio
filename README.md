@@ -6,4 +6,6 @@ This is a project I did to analysis Whitetail deer population in the US.
   - Data was taken from USDA (U.S Department of Agriculture).
 
 # [Project 2: ](https://github.com/MrJCate/....)
+
+This is a project I did to analysis COVID19
   - Data was taken from FDA (Food and Drug Administration).
