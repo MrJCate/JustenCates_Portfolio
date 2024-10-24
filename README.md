@@ -6,4 +6,4 @@ This project analysis the overall U.S stock market and the current 3 largest com
 
 # [Gas Price by Country]()
 
-This project analysis the changing gas prices by country from 2000-2024
+This project analysis the changing gas prices by country from 2000-2024.
