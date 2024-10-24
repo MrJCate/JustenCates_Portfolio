@@ -2,6 +2,6 @@
 
 # [U.S Stock Market](https://github.com/MrJCate/USStockMarket)
 
-This is a project I did to analysis the U.S stock market. 
-  - Data was taken from MarketWatch.
-  - Indexes included: Dow, S&P500, and NASDAQ  
+For this project I did to analysis of the overall U.S stock market and the current 3 largest companies by Market Cap for the last 10 years.
+
+  - Indexes included: Dow Jones, Apple, Microsoft and Nvidia
